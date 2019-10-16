@@ -1,0 +1,15 @@
+.img-square {
+  width: 100%;
+}
+
+path {
+  stroke: $white;
+  fill: $white;
+  stroke-dasharray: 1800;
+  opacity: 10;
+  animation: animate 3s cubic-bezier(0, 0.23, 1, .1);
+}
+
+.sign {
+  width: 30%;
+}
